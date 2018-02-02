@@ -1,86 +1,87 @@
-# Jekyll configuration
-markdown: kramdown
-highlighter: rouge
-paginate: 100 # it will paginate after this number
-language: 'en-uk'
+# SITE CONFIGURATION
+baseurl: "/fengzhichu-theme" # Set it to "" if use for personal site. The subpath of your site, e.g. /blog/
+url: "https://fengzhichu.com/fengzhichu-theme" # the base hostname & protocol for your site
+imageurl: "https://source.unsplash.com/category/nature/2600x500" #"https://unsplash.it/2600/500?random"
 
-# edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper2/
+# THEME-SPECIFIC CONFIGURATION
+theme:
+  # Meta
+  title: YOUR TITLE
+  #avatar: avatar.png
+  hometitle: Home #display on navigation menu.
+  yoursitetitle: YOUR LOGO
+  gravatar: # Email MD5 hash
+  description: "used by search engines" # used by search engines
+  visiblewords: 300
+  # Header and footer text
+  header_text: >
+     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-# Website info
-title: Lindsey Pett
-description: The professional publishing platform
-cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
-logo_dark: assets/images/favicon.png
-favicon: assets/images/favicon.png
-production_url: https://myJekyll.github.io/jasper2/
-source_url: https://github.com/myJekyll/jasper2/
+  header_text_feature_image: img/sample_feature_img.png
+  place_holder_image: img/sample_feature_img.png
+  footer_text: >
+   <a href="https://yoursite.com">YOUR TITLE</a> 
 
-# Social info
-navigation: True # show the navbar links
-subscribers: True # you need to connect an external service for this to work,
-# if 'True' the submit button is disabled for now, but you can change that
-# by editing `_includes/subscribe-form.html`
-twitter: tryghost # replace by your username
-facebook: ghost # replace by your username
+  # Icons
+  rss: false
+  email_address: "sam@example.com" # Full email address, e.g. "sam@example.com"
+  behance:
+  bitbucket:
+  dribbble:
+  facebook:
+  flickr:
+  github: "fengzhichu"
+  weibo: 
+  google_plus:
+  instagram:
+  linkedin:  # Full URL
+  pinterest: 
+  reddit:
+  soundcloud:
+  stack_exchange:  # Full URL
+  steam:
+  tumblr:
+  twitter: "fengzhichu"
+  wordpress:
+  youtube:
 
-# Disqus
-disqus: False
-disqus_shortname: myjekyll # replace with your disqus username
+  # Scripts
+  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  disqus_shortname:
+  katex: true # Enable if using math markup
 
-# Google Analytics
-google_analytics: UA-69281367-1 # replace with your GA tracking identifier
+  # Localization strings
+  str_follow_on: "Follow on"
+  str_rss_follow: "Follow RSS feed"
+  str_email: "Email"
+  #str_next: "Next"
+  #str_prev: "Prev"
+  str_continue_reading: "Continue Reading..."
 
-# Permalinks
-permalink: /:title
-# permalink: /author/:author
-# permalink: /tag/:tag
+  # Colours, typography and padding
+  # Open the "_sass > base" folder, and open "_variables.scss"
+  google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
 
-# Authors' info in `_data/authors.yml`
-# Tags' info in `_data/tags_info.yml`
+  # Post navigation
+  post_navigation: false
 
-# gems and other configs
-plugins: [jekyll-paginate, jekyll-feed]
-exclude: [vendor]
+# PAGINATION
+enforce_ssl: "fengzhichu.com"
+paginate: 5
+paginate_path: "blog/page:num"
+permalink: blog/:title/ 
 
-feed:
-  path: feed.xml
+# Posted in ... with ...
+sechby: 
+  category:   #in
+  tag:   #with
 
-# Additional settings available on the front-matter
-# Site logo in the index.html (as in demo.ghost.io)
-# Author's page cover in _layouts/author.html
-# The same for page.html and tag.html layouts
-# Post's page cover as a per-post basis _posts/...
-# Disqus comments as a per-post basis
-# ...
+# BUILD SETTINGS
+markdown: redcarpet
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: :compressed
 
-# Settings for builing master branch with travis-ci
-# with jekyll-travis
-
-# Settings for deploy rake task
-# Username and repo of Github repo, e.g.
-# https://github.com/USERNAME/REPO.git
-# username defaults to ENV['GIT_NAME'] used by Travis
-# repo defaults to USERNAME.github.io
-# Branch defaults to "source" for USERNAME.github.io
-# or "master" otherwise
-safe: False
-lsi: False
-username: myJekyll
-repo: jasper2
-branch: master
-relative_source: ../jasper2/
-destination: ../jasper2-pages/
-production_url:  https://myJekyll.github.io/jasper2/
-source_url:  https://github.com/myJekyll/jasper2/
-
-exclude:
-  - README.md
-  - Rakefile
-  - Gemfile
-  - Gemfile.lock
-  - changelog.md
-  - "*.Rmd"
-  - vendor
-  - .travis.yml
+gems:
+  - jekyll-paginate

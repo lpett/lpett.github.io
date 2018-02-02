@@ -1,16 +1,29 @@
-speeches:
-  name: speeches
-  description: Some of the greatest words ever spoken.
-  cover: assets/images/speeches.jpg
-fiction:
-  name: fiction
-  description: False
-  cover: False
-fables:
-  name: fables
-  description: A series of short stories that make you think.
-  cover: assets/images/fables.jpg
-getting-started:
-  name: getting-started
-  description: False
-  cover: False
+- slug: django
+  name: Django
+
+- slug: django-template-tags
+  name: Django Template Tags
+
+- slug: font-awesome
+  name: Font Awesome
+
+- slug: icons
+  name: Icons
+
+- slug: image-processing
+  name: Image Processing
+
+- slug: python
+  name: Python
+
+- slug: github
+  name: GitHub
+
+- slug: github-pages
+  name: GitHub Pages
+
+- slug: jekyll
+  name: Jekyll
+  
+- slug: open-source
+  name: Open Source
