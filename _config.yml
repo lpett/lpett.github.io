@@ -42,20 +42,20 @@ landing:
 # my projects
 project:
   Aquatic Plant Taxonomy:
-    name: 'Saplatform'
-    url: '/Jack614/saplatform'
+    name: 'Aquatic Botany'
+    url: 
     img: 'aquaticplant.jpg'
   Lake Champlain Zooplankton:
-    name: 'Jalpc'
-    url: '/Jack614/jalpc_jekyll_theme'
+    name: 'Zooplankton of Lake Champlain'
+    url: 
     img: 'zoo.jpg'
   Wetland Plant Functional Groups Mesocosm Experiment:
-    name: 'Jalpc-A'
-    url: '/Jack614/Jalpc-A'
+    name: 'Wetland Mesocosm'
+    url: 
     img: 'meso.jpg'
   Nutrient Stoichiomety in Northern Pitcher Plants:
-    name: 'Rsser'
-    url: '/Jack614/Rsser'
+    name: 'Sarracenia purpurea Stoichiometry'
+    url: 
     img: 'pitcherplant.jpg'
 
 # blog index
