@@ -42,7 +42,7 @@ landing:
 # my projects
 project:
   saplatform:
-    name: '*Sarracenia purpurea* Stoichiometry'
+    name: 'Sarracenia purpurea Stoichiometry'
     url: '/Jack614/saplatform'
     img: 'static/img/landing/saplatform.png'
   jalpc:
