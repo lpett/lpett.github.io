@@ -1,11 +1,11 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: "Lindsey Pett"
-description: "Lindsey's blog,use Jekyll and github pages."
+title: "Jalpc"
+description: "Jack's blog,use Jekyll and github pages."
 keywords: "Jack,Jalpc,blog,Jekyll,github,gh-pages"
 baseurl: "/"
-url: "https://lpett.github.io"
+url: "http://www.jack003.com"
 # url: "http://127.0.0.1:4000"
 
 # blog img path
@@ -13,21 +13,21 @@ img_path: 'http://www.jack003.com/static/img/blog'
 
 # author
 author:
-  name: 'Lindsey Pett'
-  first_name: 'Lindsey'
-  last_name: 'Pett'
-  email: 'lpett@uvm.edu'
-  facebook_username: 'Lindsey Ann'
-  github_username: 'lpett'
-  head_img: 'LPbitmoji.jpg'
+  name: 'Jack'
+  first_name: 'Jia'
+  last_name: 'Kun'
+  email: 'me@jack003.com'
+  facebook_username: 'jiakunnj'
+  github_username: 'Jack614'
+  head_img: 'static/img/landing/Jack.jpg'
 
 # social link
 jingyu:
-  first_name: 'Lindsey'
-  last_name: 'Pett'
-  description: 'Ecologist'
-  link: 'https://lpett.github.io'
-  email: 'lpett@uvm.edu'
+  first_name: 'Yu'
+  last_name: 'Jing'
+  description: 'Painter.'
+  link: 'http://angular.jack003.com'
+  email: '805963294@qq.com'
 
 # landing page
 landing:
@@ -41,20 +41,20 @@ landing:
 
 # my projects
 project:
-  Nutrient Stoich:
-    name: 'Sarracenia purpurea Stoichiometry'
+  saplatform:
+    name: 'Saplatform'
     url: '/Jack614/saplatform'
     img: 'static/img/landing/saplatform.png'
-  Mesocosm:
-    name: 'Wetland Mesocosm Complex'
+  jalpc:
+    name: 'Jalpc'
     url: '/Jack614/jalpc_jekyll_theme'
     img: 'static/img/landing/jekyll.png'
-  LCRI:
-    name: 'Lake Champlain Zooplankton'
+  angularjs:
+    name: 'Jalpc-A'
     url: '/Jack614/Jalpc-A'
     img: 'static/img/landing/angularjs.png'
-  AWI:
-    name: 'Adirondack Aquatic Botany'
+  Rsser:
+    name: 'Rsser'
     url: '/Jack614/Rsser'
     img: 'static/img/landing/rsser.png'
 
