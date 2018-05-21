@@ -2,14 +2,14 @@
 
 # Website settings
 title: "Lindsey Pett"
-description: "Personal Website/Blog"
-keywords: "Jack,Jalpc,blog,Jekyll,github,gh-pages"
+description: "Lindsey's Website"
+keywords: "UVM, nutrient stoichiometry, N:P"
 baseurl: "/"
 url: "https://lpett.github.io"
 # url: "http://127.0.0.1:4000"
 
 # blog img path
-img_path: 'http://www.jack003.com/static/img/blog'
+img_path: ''
 
 # author
 author:
@@ -37,7 +37,9 @@ landing:
   skills: 'Skills'
   projects: 'Project'
   blog: 'Blog'
-  link: 'Link'
+  photo: 'Gallery'
+  cv: 'CV'
+  link: 'Contact'
 
 # my projects
 project:
@@ -61,17 +63,8 @@ project:
 # blog index
 index:
   home: 'Home'
-  python: 'Python'
-  linux: 'Linux'
-  html: 'HTML'
-  database: 'Database'
-  mac: 'Mac'
-  life: 'Life'
-
-# donate
-donate:
-  wechat: 'static/img/pay/wechat.png'
-  alipay: 'static/img/pay/alipay.png'
+  notebook1: 'Stoichiometry Notebook'
+  notebook2: 'Naturalist Notebook'
 
 # comment
 changyan:
