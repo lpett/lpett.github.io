@@ -14,5 +14,5 @@ comments: false
     file:///Users/lindseypett/Documents/GitHub/lpett.github.io/MollyBog.html
     file:///Users/lindseypett/Documents/GitHub/lpett.github.io/Midge.html
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="Molly Bog & Midge" cols=2 %}
 
