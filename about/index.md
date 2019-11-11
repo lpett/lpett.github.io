@@ -10,10 +10,9 @@ comments: false
 
 
 {% capture images %}
-   https://github.com/lpett/Bio381_2018/blob/master/Midge.jpg?raw=true
-   https://github.com/lpett/Bio381_2018/blob/master/MollyBog.jpg?raw=true
+https://github.com/lpett/Bio381_2018/blob/master/MollyBog.png?raw=true   https://github.com/lpett/Bio381_2018/blob/master/Midge.png?raw=true
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="Molly Bog & Midge" cols=2 %}
 
 
 
