@@ -4,10 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
+I am a 3rd year PhD candidate in the biology department at [The University of Vermont](https://www.uvm.edu/cas/biology) . I study aquatic ecosystem stoichiometry, structure, and function in response to atmospheric nutrient deposition, using the model system *Sarracenia purpurea•. I am working with my advisor [Dr. Nicholas Gotelli](http://www.uvm.edu/~ngotelli/homepage.html) alongside my labmates: [Lauren Ash](https://lvash.github.io), [Amanda Northrop](https://www.researchgate.net/profile/Amanda_Northrop),[Alex Burnham](https://github.com/alexburn17), [Emily Beasley](https://beasthebiologist.wordpress.com), and Raymond Looney.
 
-You can find the source code for the Jekyll new theme at:
-[sleek](https://github.com/janczizikow/sleek)
-
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
