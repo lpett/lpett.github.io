@@ -6,19 +6,8 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center> I am a 3rd year PhD candidate in the Biology Department at The University of Vermont. I am interested in aquatic ecosystem stoichiometry, structure, and function, in response to atmospheric deposition. I am working with my advisor <a href="http://www.uvm.edu/~ngotelli/homepage.html">Dr. Nicholas Gotelli</a> alongside my labmates: <a href="https://www.uvm.edu/~anorthro/">Amanda Northrop</a>, <a href="https://lvash.github.io">Lauren Ash</a>, <a href="https://github.com/alexburn17">Alex Burnham</a>, <a href="https://beasthebiologist.wordpress.com">Emily Beasley</a>, and Raymond Looney.
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
 
 ## Preview
 
@@ -28,10 +17,3 @@ comments: false
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
