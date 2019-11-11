@@ -6,19 +6,8 @@ date: 2016-03-21
 comments: false
 ---
     
-<center> I am a 3rd year PhD candidate in the Biology Department at The University of Vermont. I am interested in aquatic ecosystem stoichiometry, structure, and function, in response to atmospheric deposition. I am working with my advisor <a href="http://www.uvm.edu/~ngotelli/homepage.html"><bDr. Nicholas Gotelli</b></a>, alongside my labmates; <a href="https://lvash.github.io"><bLauren Ash</b></a>
+<center> I am a 3rd year PhD candidate in the Biology Department at The University of Vermont. I am interested in aquatic ecosystem stoichiometry, structure, and function, in response to atmospheric deposition. I am working with my advisor <a href="http://www.uvm.edu/~ngotelli/homepage.html">Dr. Nicholas Gotelli</a> and with the support of my current and previous labmates: <a href="https://www.uvm.edu/~anorthro/">Amanda Northrop</a>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
 
 ## Preview
 
