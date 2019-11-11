@@ -1,14 +1,14 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              Lindsey Pett
+bio:                'I am a  3rd  year PhD candidate in the Biology Department at The University of Vermont. I am intrested in aquatic ecosystem stoichiometry, structure, and function in  response to atmospheric nutrient deposition'
+description:        "I am a  3rd  year PhD candidate in the Biology Department at The University of Vermont. I am intrested in aquatic ecosystem stoichiometry, structure, and function in  response to atmospheric nutrient deposition."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                https://lpett.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   lpett
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -37,20 +37,20 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github-url:         username
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+email: Lindsey.Pett@uvm.edu
+twitter:            Lindsey28387676
+#facebook:           username
+github-url:         LPETT
+#stackoverflow:     123456/username   from a "http://#stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+instagram:          patatathefrog
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
@@ -61,7 +61,7 @@ steam:              username
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-
+researchgate: https://www.researchgate.net/profile/Lindsey_Pett
 # Gems
 gems:
   - jekyll-mentions
