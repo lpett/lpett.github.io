@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center> I am a 3rd year PhD candidate in the Biology Department at The University of Vermont. I am interested in aquatic ecosystem stoichiometry, structure, and function, in response to atmospheric deposition. I am working with my advisor <a href="http://www.uvm.edu/~ngotelli/homepage.html"><bDr. Nicholas Gotelli</b></a>, alongside my labmates; <a href="https://lvash.github.io"><bLauren Ash</b></a>
 
 ## Features
 * Minimal, you can focus on your content
