@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: Lindsey Pett
+tags: [Ecology, Stoichiometry, Sarracenia, Lindsey, Pett]
+date: 2019
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center> am interested in aquatic ecosystem stoichiometry, structure, and function, in response to atmospheric deposition. I use the model system *Sarracenia purpurea* which is home to a detritus based aquatic ecosystem composed of bacteria, macroinvertebrates, and phytoplankton. Please check out my current research projects, as well as my cohorts. I am working with my advisor <a href="http://www.uvm.edu/~ngotelli/homepage.html">Dr. Nicholas Gotelli</a> alongside my labmates: <a href="https://amandacnorthrop.com">Amanda Northrop</a>, <a href="https://lvash.github.io">Lauren Ash</a>, <a href="https://github.com/alexburn17">Alex Burnham</a>, <a href="https://beasthebiologist.wordpress.com">Emily Beasley</a>, and Raymond Looney.
 
 ## Features
 * Minimal, you can focus on your content
