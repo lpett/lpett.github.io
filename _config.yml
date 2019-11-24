@@ -1,14 +1,14 @@
 # Site
 title:              Lindsey Pett
-bio:                'I am a  3rd  year PhD candidate in the Biology Department at The University of Vermont. I am interested in aquatic ecosystem stoichiometry, structure, and function in response to atmospheric nutrient deposition.'
-description:        "Biologist interested in aquatic ecosystem stoichiometry"
+bio:                'I am a 3rd year PhD candidate in the Biology Department at The University of Vermont. I am interested in aquatic ecosystem stoichiometry, structure, and function in response to atmospheric deposition of Nitrogen and Phosphorus'
+description:        "Biologist interested in aquatic ecosystem stoichiometry, specifically N:P ratios"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                https://lpett.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:  
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -37,10 +37,10 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-email: Lindsey.Pett@uvm.edu
+#email:	Lindsey.Pett@uvm.edu
 twitter:            Lindsey28387676
 #facebook:           username
-github-url:         lpett
+github-url:         koett
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
