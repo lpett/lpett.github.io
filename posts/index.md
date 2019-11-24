@@ -1,6 +1,8 @@
 ---
-layout: post-list
-title: All Posts
-excerpt: "A List of Posts"
+layout: page
+title: CV
+excerpt: "CV"
 comments: false
 ---
+
+Test
