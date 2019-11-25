@@ -1,6 +1,6 @@
 ---
-layout: project
-title: CV 2019
+layout: cv-list
+title: All CSV
 excerpt: "2019 CV"
 comments: false
 ---
