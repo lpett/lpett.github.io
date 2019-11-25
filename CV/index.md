@@ -1,6 +1,6 @@
 ---
 layout: post-list
-title: CV
+title: "CV"
 excerpt: "CV"
 comments: false
 ---
