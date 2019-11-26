@@ -7,8 +7,8 @@ year: 2019
 
 # Navigation
 nav1: "About"
-nav2: "Things I Can Do"
-nav3: "A Few Accomplishments"
+nav2: "Current Projects"
+nav3: "CV"
 
 # Section1
 sec1: "Lindsey A. Pett"
@@ -33,7 +33,7 @@ icon6: "fa-users"
 icont6: "Shadow clone technique"
 
 # Section 3
-sec6: "A Few Accomplishments"
+sec6: "CV"
 sec7: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer. Integer eu ante ornare amet commetus."
 sec8: "Possibly broke spacetime"
 sec9: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
