@@ -7,7 +7,7 @@ year: 2019
 
 # Navigation
 nav1: "About"
-nav2: "CV"
+nav2: "Interests"
 nav3: "Current Projects"
 
 # Section1
@@ -17,7 +17,7 @@ sec2: "University of Vermont, Department of Biology
 sec3: "I am interested in aquatic ecosystem stoichiometry, structure, and function, in response to atmospheric deposition. I use the model system Sarracenia purpurea (Northern Pitcher Plant) which is home to a detritus based aquatic ecosystem composed of bacteria, macro-invertebrates, and phytoplankton. Please check out my current research projects, as well as my cohorts. I am working with my advisor Dr. Nicholas Gotelli alongside my labmates: Amanda Northrop, Laure, Ash, Alex Burnham, Emily Beasley, and Raymond Looney"
 
 # Section 2
-sec4: "Current Projects"
+sec4: "Interests"
 sec5: "My current research is centered around atmospheric deposition of nitrogen and phosphorous and the impacts of changes of N:P ratios in aquatic ecosystems"
 icon1: "fas fa-code"
 icont1: "Write all the code"
