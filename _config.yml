@@ -7,8 +7,8 @@ year: 2019
 
 # Navigation
 nav1: "About"
-nav2: "Current Projects"
-nav3: "CV"
+nav2: "CV"
+nav3: "Current Projects"
 
 # Section1
 sec1: "Lindsey A. Pett"
@@ -18,7 +18,7 @@ sec3: "I am interested in aquatic ecosystem stoichiometry, structure, and functi
 
 # Section 2
 sec4: "Current Projects"
-sec5: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer lorem ipsum dolor sit amet."
+sec5: "My current research is centered around atmospheric deposition of nitrogen and phosphorous and the impacts of changes of N:P ratios in aquatic ecosystems"
 icon1: "fas fa-code"
 icont1: "Write all the code"
 icon2: "fa-cubes"
@@ -33,7 +33,7 @@ icon6: "fa-users"
 icont6: "Shadow clone technique"
 
 # Section 3
-sec6: "CV"
+sec6: "Current Projects"
 sec7: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer. Integer eu ante ornare amet commetus."
 sec8: "Possibly broke spacetime"
 sec9: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
