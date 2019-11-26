@@ -11,12 +11,13 @@ nav2: "Things I Can Do"
 nav3: "A Few Accomplishments"
 
 # Section1
-sec1: "Lindsey A. Pett, PhD Candidate"
-sec2: "University of Vermont, Department of Biology"
-sec3: "I am interested in aquatic ecosystem stoichiometry, structure, and function, in response to atmospheric deposition. I use the model system Sarracenia purpurea (Northern Pitcher Plant) which is home to a detritus based aquatic ecosystem composed of bacteria, macro-invertebrates, and phytoplankton. Please check out my current research projects, as well as my cohorts. I am working with my advisor"
+sec1: "Lindsey A. Pett"
+sec2: "University of Vermont, Department of Biology
+PhD Candidate"
+sec3: "I am interested in aquatic ecosystem stoichiometry, structure, and function, in response to atmospheric deposition. I use the model system Sarracenia purpurea (Northern Pitcher Plant) which is home to a detritus based aquatic ecosystem composed of bacteria, macro-invertebrates, and phytoplankton. Please check out my current research projects, as well as my cohorts. I am working with my advisor Dr. Nicholas Gotelli alongside my labmates: Amanda Northrop, Laure, Ash, Alex Burnham, Emily Beasley, and Raymond Looney"
 
 # Section 2
-sec4: "Things I Can Do"
+sec4: "Current Projects"
 sec5: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer lorem ipsum dolor sit amet."
 icon1: "fas fa-code"
 icont1: "Write all the code"
@@ -42,21 +43,21 @@ sec12: "Snapped dark matter in the wild"
 sec13: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
 
 # Social Links
-facebook: username
-twitter:  username
+#facebook: username
+twitter:  Lindsey28387676
 #google: username
-#instagram: username
+instagram: patatathefrog
 #pinterest: username
 #linkedin: username
 #youtube: username
 #spotify: username
 #lastfm: username
-github: username
+github: ulpett
 #stackoverflow: username
 #quora: username
 #reddit: username
 #medium: username
 #vimeo: username
-keybase: username
-email: test@gmail.com
+#keybase: username
+email: Lindsey.Pett@uvm.edu
 
