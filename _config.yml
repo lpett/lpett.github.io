@@ -18,17 +18,17 @@ sec3: "I am interested in aquatic ecosystem stoichiometry, structure, and functi
 # Section 2
 sec4: "Interests"
 sec5: "My interests lie primarily within wetland and aquatic ecosystems."
-icon1: "fas fa-circle"
+icon1: "fas fa-flask"
 icont1: "Stoichiometry"
-icon2: "fa-circle"
+icon2: "fa-ship"
 icont2: "Plankton"
-icon3: "fa-circle"
+icon3: "fa-bug"
 icont3: "Aquatic invertebrates"
-icon4: "fa-circle"
+icon4: "fa-industry"
 icont4: "Functional diversity"
-icon5: "fa-circle"
+icon5: "fa-line-chart"
 icont5: "Invertebrate diversity"
-icon6: "fa-circle"
+icon6: "fa-heart"
 icont6: "Carnivorous plants"
 
 # Section 3
